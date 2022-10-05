@@ -1,8 +1,15 @@
 # Pricepally
 
 ## Getting Started
+- Clone the Project
+- Install dependencies 
+```bash
+yarn
+# or 
+npm install
+```
 
-First, run the development server:
+Rrun the development server:
 
 ```bash
 npm run dev
