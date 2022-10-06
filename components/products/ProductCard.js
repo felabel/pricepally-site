@@ -19,7 +19,7 @@ const ProductCard = ({ id, image, name, discount, price, reviewsCount, rate }) =
 
                 <div className="pally-content">
                     <a href="#" className="inner-head">
-                        <h5 className="mb-2">{name} {"(5kg)"} </h5>
+                        <h5 className="mb-2">{name} </h5>
                     </a>
                     <a href="#" className="green-bg"><span className="material-icons-outlined">
                         arrow_right_alt
