@@ -5,6 +5,11 @@ body {
   a{
   text-decoration: none!important;
   }
+ a:hover{
+  text-decoration: none!important;
+  }
+
+
   @keyframes spinner {
     0% {
       transform: rotate(0deg);
